@@ -74,7 +74,7 @@ motor(port#1, 100);
 motor(port#2, 100);
 msleep();
 
-//figure out how the fuck we get poms into the WRU//moving bunbun up for the WRU
+
 motor(port#1, 100);
 motor(port#2, 100);
 msleep();
